@@ -2,7 +2,8 @@
 
 ## Electricity bill calculator
 
-## the program calculates your electricity bill.
+## Description
+-the program calculates your electricity bill.
 
 ## Version 1: Original code without input validation
 -input: asks for a name, your previous and current meter readings
