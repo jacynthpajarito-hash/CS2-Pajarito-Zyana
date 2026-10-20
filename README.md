@@ -1,4 +1,4 @@
-# DOCUMENT v1
+# DOCUMENT v1 & v2
 
 ## Electricity bill calculator
 
